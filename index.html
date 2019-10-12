@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GUO XU's site</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap-4.3.1-dist/css/bootstrap.css">
+    <style type="text/css">
+      html {
+        position: relative;
+        min-height: 100%;
+      }
+      body {
+        margin-bottom: 60px; /* Margin bottom by footer height */
+        background: #eae5e5;
+        height: 100%;
+        background: linear-gradient(to right, #eae5e5, #fff);
+        font-family: Serif;
+      }
+      .footer {
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        height: 60px; /* Set the fixed height of the footer here */
+        /*line-height: 60px;  Vertically center the text there */
+        background-color: #f5f5f5;
+      }
+
+    </style>
+</head>
+<body class="d-flex flex-column" style="font-size: 20px;">
+  <wrapper class="wrap d-flex flex-column">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+      <a class="navbar-brand navbar-brand text-white mx-4 px-4" href="#">
+        <img src="./img/nav.png" width="40" height="30" class="d-inline-block align-top mx-3">
+        Home page
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" style="color: #eae5e5;" href="index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color: #eae5e5;" href="research.html">Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color: #eae5e5;" href="assitantship.html">Assistantship</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color: #eae5e5;" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main class="main py-3 flex-fill container">
+        <div class="row my-4 py-4 featurette">
+          <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading">Xu Guo</h2>
+            <p class="lead">I am Xu Guo, a first-year Ph.D. student at the <a href="http://scse.ntu.edu.sg/Pages/Home.aspx" target="_blank">School of Computer Science and Engineering</a> at <a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank">Nanyang Technological University, Singapore</a>, under the supervision of Professor <a href="https://sites.google.com/site/hanyushomepage/" target="_blank">Han Yu</a>. My research interests include machine learning and its applications in health and human-agent interaction. Currently, I am investigating architecture of unsupervised deep representation learning on heterogeneous data. </p>
+          </div>
+          <div class="col-md-5 order-md-1">
+            <img src="./img/head.jpeg" class="rounded-circle mx-auto my-auto d-block shadow-sm border border-white" style="width: 270px;">
+          </div>
+        </div>
+    </main>
+
+    <footer id="sticky-footer" class="footer container-fluid w-100 bg-dark text-light py-3">
+      <div class="container text-center">
+        <small>Copyright &copy; Xu Guo</small>
+      </div>
+    </footer>
+  </wrapper>
+
+<script type="text/javascript" src="core/jquery.min.js"></script>
+<script type="text/javascript" src="core/popper.min.js"></script>
+<script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+</body>
+</html>

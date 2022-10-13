@@ -2,7 +2,6 @@
 title: "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection"
 collection: publications
 permalink: /publication/2021-06-01-Latent-Optimized-adversarial-neural-transfer-for-sarcasm-detection
-excerpt: 'We propose a generalized latent optimization strategy that allows different losses to accommodate each other and improves training dynamics under adversarial neural transfer framework. The proposed method outperforms transfer learning and meta-learning baselines on sarcasm detection.'
 venue: 'Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-2021)'
 ---
 <!--

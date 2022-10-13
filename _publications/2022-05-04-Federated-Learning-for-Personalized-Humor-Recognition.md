@@ -2,7 +2,6 @@
 title: "Federated Learning for Personalized Humor Recognition"
 collection: publications
 permalink: /publication/2022-05-04-Federated-Learning-for-Personalized-Humor-Recognition
-excerpt: 'Existing approaches are generally designed based on the assumption that users have a consensus on whether a given text is humorous or not. Thus, they cannot handle diverse humor preferences well. We propose the FedHumor approach for the recognition of humorous content in a personalized manner through Federated Learning (FL)'
 venue: 'ACM Transactions on Intelligent Systems and Technology'
 ---
 <!--paperurl: 'http://academicpages.github.io/files/paper2.pdf'-->

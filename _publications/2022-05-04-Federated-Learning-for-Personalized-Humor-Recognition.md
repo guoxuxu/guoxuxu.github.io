@@ -10,8 +10,7 @@ venue: 'ACM Transactions on Intelligent Systems and Technology'
 
 Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. 2022. Federated Learning for Personalized Humor Recognition. ACM Trans. Intell. Syst. Technol. 13, 4, Article 68 (August 2022), 18 pages. https://doi.org.remotexs.ntu.edu.sg/10.1145/3511710
 
-BibTeX
---
+### BibTeX
 ```
 @article{guo-et-al-2022-fedhumor,
 author = {Guo, Xu and Yu, Han and Li, Boyang and Wang, Hao and Xing, Pengwei and Feng, Siwei and Nie, Zaiqing and Miao, Chunyan},

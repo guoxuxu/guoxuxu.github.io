@@ -1,7 +1,7 @@
 ---
 title: "Service"
 collection: teaching
-permalink: /teaching/service
+permalink: /teaching/3-service
 ---
 ### Service
 **Organizing committee**

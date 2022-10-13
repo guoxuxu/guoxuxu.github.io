@@ -1,7 +1,7 @@
 ---
-title: "Lab / Experiments"
+title: "Tutorials"
 collection: teaching
-permalink: /teaching/tutorial
+permalink: /teaching/2-tutorial
 ---
 ### Tutorials
 **Nanyang Technological University, School of Computer Science and Engineering**

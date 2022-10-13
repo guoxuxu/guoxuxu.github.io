@@ -1,7 +1,7 @@
 ---
 title: "Lab / Experiments"
 collection: teaching
-permalink: /teaching/tutorial
+permalink: /teaching/1-lab
 ---
 ### Lab / Experiments
 **Nanyang Technological University, School of Computer Science and Engineering**

@@ -13,7 +13,7 @@ author_profile: true
   * Student Travel Grant, IJCAI 2019.
   * NTU Full Research Scholarship (2019-2022)
   
-  **Much Earlier**
+  **Earlier**
   * Outstanding Graduate Award, Beijing University of Posts and Telecommunications, 2018
   * Star of the College of Electronic Engineering, Beijing University of Posts and Telecommunications, 2017
   * Academic Scholarship, 2015-2017

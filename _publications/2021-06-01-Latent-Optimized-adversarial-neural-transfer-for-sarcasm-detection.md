@@ -13,7 +13,9 @@ citation: 'Xu Guo, Boyang Li, Han Yu, and Chunyan Miao. 2021. Latent-Optimized A
 [Download paper here](https://aclanthology.org/2021.naacl-main.425.pdf)
 [Code](https://github.com/guoxuxu/LOANT)
 
-Recommended citation: Xu Guo, Boyang Li, Han Yu, and Chunyan Miao. 2021. Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 5394–5407, Online. Association for Computational Linguistics.
+Xu Guo, Boyang Li, Han Yu, and Chunyan Miao. 2021. Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 5394–5407, Online. Association for Computational Linguistics.
+
+### Abstract
 
 ```
 @inproceedings{guo-etal-2021-latent,

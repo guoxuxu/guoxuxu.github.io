@@ -1,7 +1,7 @@
 ---
 title: "Tutorials"
 collection: teaching
-permalink: /teaching/2-tutorial
+permalink: /teaching/2020-01-14-tutorial
 ---
 ### Tutorials
 **Nanyang Technological University, School of Computer Science and Engineering**

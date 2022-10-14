@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-## Lab / Experiments
+## Lab 
 @ Nanyang Technological University, School of Computer Science and Engineering
 
 Undergraduate Courses

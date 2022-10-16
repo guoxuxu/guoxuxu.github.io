@@ -6,7 +6,7 @@ venue: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 ---
 
 [Preprint](https://arxiv.org/pdf/2210.02952.pdf)
-[Code](https://github.com/guoxuxu/OPTIMA)
+<!--[Code](https://github.com/guoxuxu/OPTIMA)-->
 
 
 ### Abstract

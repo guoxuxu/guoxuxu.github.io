@@ -11,7 +11,7 @@ author_profile: true
   * [Best Presentation Award, Pattern Recognition and Machine Intelligence Association. 2021.](https://personal.ntu.edu.sg/han.yu/PREMIA-2021-NAACL.png) [(Media Blog.)](http://www.premiasg.org/for-members/premia-best-student-paper-awards/premia-best-student-paper-awards-2021/)
   * Best Application Paper Award. IJCAI 2020 Workshop: Federated Learning for User Privacy and Data Confidentiality.
   * Student Travel Grant, IJCAI 2019.
-  * NTU Full Research Scholarship (Jan 2019 - Dec 2020)
+  * NTU Full Research Scholarship (Jan 2019 - Dec 2022)
   
   **Earlier**
   * Outstanding Graduate Award, Beijing University of Posts and Telecommunications, 2018

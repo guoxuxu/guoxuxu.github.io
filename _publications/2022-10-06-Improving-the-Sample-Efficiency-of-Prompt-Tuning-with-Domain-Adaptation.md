@@ -5,9 +5,9 @@ permalink: /publication/2022-10-06-Improving-the-Sample-Efficiency-of-Prompt-Tun
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 ---
 
-* [Preview](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.258/)
-* [ArXiv](https://arxiv.org/pdf/2210.02952.pdf)
-* [Code](https://github.com/guoxuxu/OPTIMA)
+[Preview](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.258/)
+[ArXiv](https://arxiv.org/pdf/2210.02952.pdf)
+[Code](https://github.com/guoxuxu/OPTIMA)
 
 > Xu Guo, Boyang Li, and Han Yu. 2022. Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation. In Findings of the Association for Computational Linguistics: EMNLP 2022, pages 3523–3537, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
 

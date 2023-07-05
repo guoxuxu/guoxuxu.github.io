@@ -27,5 +27,5 @@ focuses on a few typical problem settings and demonstrates potentially promising
 News
 ---
 * 06/2023. Received [Wallenberg-NTU Presidential Postdoctoral Fellowship.](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)#Content_C048_Col01)
-* 02/05/2023. Passed oral defence.
+* 02/05/2023. Successfully defended my PhD.
 * 02/2023. Received [WiEST Development Grant](https://www.ntu.edu.sg/women/wiest-development-grant). Women in STEM at NTU.

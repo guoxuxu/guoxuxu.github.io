@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD in Computer Science and Engineering. Currently, I am a research fellow at [SCSE](https://www.ntu.edu.sg/scse), 
-[NTU Singapore](https://www.ntu.edu.sg/), advised by Prof. [Boyang Albert Li](http://www.boyangli.org/). 
+I am a PhD in Computer Science and Engineering. I will join [SCSE](https://www.ntu.edu.sg/scse), 
+[NTU Singapore](https://www.ntu.edu.sg/) as a research fellow, working with Prof. [Boyang Albert Li](http://www.boyangli.org/). 
 Previously, I received my PhD from the same school at NTU, where I was advised by Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/) and Prof. [Miao Chun Yan](https://dr.ntu.edu.sg/cris/rp/rp00084). 
 
 

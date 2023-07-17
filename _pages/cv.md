@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Nanyang Technological University, 2023 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.Eng. in GitHub, Jilin University, 2015
+* Ph.D in Computer Science, Nanyang Technological University, 2023 
+* M.Eng. in Electronics and Communication Engineering, Beijing University of Posts and Telecommunications, 2018
+* B.Eng. in Electronic Information Engineering, Jilin University, 2015
 
 Work experience
 ======

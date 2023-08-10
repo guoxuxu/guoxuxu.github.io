@@ -21,8 +21,8 @@ I have been working on the transferability and efficiency problems of LLMs for a
 
 During PhD, I was driven by developing methods to adapt LLMs to low-resource domains against potential domain shift. 
 Check out my [survey on the domain adaptation and generalization of pretrained lanaguage models](https://arxiv.org/pdf/2211.03154.pdf). 
-My thesis, titled [Data-efficient domain adaptation for pretrained language models](https://dr.ntu.edu.sg/handle/10356/167965), 
-focuses on a few typical problem settings and demonstrates potentially promising approaches to adapt LLMs to various kinds of data-scarce domains. 
+My thesis, [Data-efficient domain adaptation for pretrained language models](https://dr.ntu.edu.sg/handle/10356/167965), 
+provides a few potentially promising solutions to adapt LLMs to data-scarce domains under different resource constraints. 
 
 
 News

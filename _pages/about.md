@@ -19,7 +19,7 @@ My research interests are at the intersection of machine learning and natural la
 motivated by a variety of real-world problems from our society, including healthcare and industrial scenarios.
 I have been working on the transferability and efficiency problems of LLMs for a while. Feel free to reach out if you have related research to discuss.
 
-During PhD, I was driven by developing methods to adapt large-scale pretrained language models to low-resource domains against potential domain shift. 
+During PhD, I was driven by developing methods to adapt LLMs to low-resource domains against potential domain shift. 
 Check out my [survey on the domain adaptation and generalization of pretrained lanaguage models](https://arxiv.org/pdf/2211.03154.pdf). 
 My thesis, titled [Data-efficient domain adaptation for pretrained language models](https://dr.ntu.edu.sg/handle/10356/167965), 
 focuses on a few typical problem settings and demonstrates potentially promising approaches to adapt LLMs to various kinds of data-scarce domains. 

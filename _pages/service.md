@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 
+**Program committee/reviewer**
+* AAAI, MLsys, FL-IJCAI, FL-AAAI.
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Affective Computing
+* IEEE Transactions on Big Data
+* IEEE Intelligent Systems
+
+
+
 **Organizing committee**
 * FL-IJCAI 2021 Publication Co-Chair
-
-**Program committee/reviewer**
-* AAAI 2023, FL-IJCAI 2021, FL-IJCAI 2022, FL-AAAI 2022
-* IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Big Data, IEEE Intelligent Systems.
-
-
 

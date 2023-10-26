@@ -28,7 +28,7 @@ provides a few potentially promising solutions to adapt LLMs to data-scarce doma
 News
 ---
 * 10.23/2023. Served as a Session Chair at CIKM.
-* 10.8/2023. Visiting TUM, Germany.
+* 10.9/2023. Visiting TUM, Germany.
 * 10/2023. One paper accepted to EMNLP Findings. 
 * 08/2023. One [paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614896) accepted to CIKM. 
 * 07/2023. One [paper](https://browse.arxiv.org/pdf/2306.08966.pdf) accepted to ACM MM.

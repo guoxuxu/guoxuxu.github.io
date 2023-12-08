@@ -31,9 +31,9 @@ News
 * 10/2023. One paper accepted to EMNLP Findings. 
 * 08/2023. One [paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614896) accepted to CIKM. 
 * 07/2023. One [paper](https://browse.arxiv.org/pdf/2306.08966.pdf) accepted to ACM MM.
-* 06/2023. Received [Wallenberg-NTU Presidential Postdoctoral Fellowship.](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)#Content_C048_Col01)
+* 06/2023. Awarded [Wallenberg-NTU Presidential Postdoctoral Fellowship.](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)#Content_C048_Col01)
 * 02/05/2023. Successfully defended my PhD.
-* 02/2023. Received [WiEST Development Grant](https://www.ntu.edu.sg/women/wiest-development-grant). Women in STEM at NTU.
+* 02/2023. Awarded [WiEST Development Grant](https://www.ntu.edu.sg/women/wiest-development-grant). Women in STEM at NTU.
 
 
 Grant

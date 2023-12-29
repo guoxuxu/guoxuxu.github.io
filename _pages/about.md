@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Wallenberg-NTU Presidential Postdoctoral Fellow at [NTU Singapore](https://www.ntu.edu.sg/) advised by Prof. [Miao Chun Yan](https://dr.ntu.edu.sg/cris/rp/rp00084). Previously, I was a research fellow at [SCSE](https://www.ntu.edu.sg/scse) advised by Prof. [Boyang Albert Li](http://www.boyangli.org/).
-I received my PhD in Computer Science from NTU in 2023, where I was advised by Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/).
+I am a Wallenberg-NTU Presidential Postdoctoral Fellow at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) advised by Prof. [Miao Chun Yan](https://dr.ntu.edu.sg/cris/rp/rp00084). Previously, I 
+was a 
+research fellow at 
+[SCSE, NTU](https://www.ntu.edu.sg/scse) advised by Prof. [Boyang Albert Li](http://www.boyangli.org/).
+I received my Ph.D. degree from NTU in 2023, where I was advised by Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/).
 
 
 Research

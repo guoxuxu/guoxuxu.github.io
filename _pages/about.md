@@ -8,24 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Wallenberg-NTU Presidential Postdoctoral Fellow at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/) advised by Prof. [Miao Chun Yan](https://dr.ntu.edu.sg/cris/rp/rp00084). Previously, I 
-was a 
-research fellow at 
-[SCSE, NTU](https://www.ntu.edu.sg/scse) under the supervision of Prof. [Boyang Albert Li](http://www.boyangli.org/).
-I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/).
+I am a Wallenberg-NTU Presidential Postdoctoral Fellow at <a href="https://www.ntu.edu.sg/" style="color: #4ca772; text-decoration: none;">Nanyang Technological University, Singapore</a> advised by Prof. <a href="https://dr.ntu.edu.sg/cris/rp/rp00084" style="color: #4ca772; text-decoration: none;">Miao Chun Yan</a>.
+Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" style="color: #4ca772; text-decoration: none;">SCSE, NTU</a>
+under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
+I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
 
 Research
 ------
 
 My PhD research was mostly driven by developing methods to adapt Pretrained Language Models to low-resource domains against potential domain shift. 
-Check out my [survey on the domain adaptation and generalization of pretrained lanaguage models](https://arxiv.org/pdf/2211.03154.pdf). 
-My thesis, [data-efficient domain adaptation for pretrained language models](https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf), 
+Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
+My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
 provides a few promising solutions to adapt PLMs to data-scarce domains under different resource constraints. 
 
-As Generative AI, on top of large PLMs, increasingly plays an important role in our daily life, it is essential to address the following research problems: 
+As Generative AI, on top of large PLMs, increasingly plays an important role in our daily life, it is essential to think about the following research problems: 
 when do we need synthetic data generation, what is the quality of the generated content, and how to effectively and efficiently utilize the generated data? 
-The significance of this research is to apply generative AI in practice and provide sustainable benefits to society.
+This research will contribute to the use of generative AI in practice and provide sustainable benefits to society.
 
 [//]: # (News)
 

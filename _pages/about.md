@@ -48,8 +48,8 @@ This research will contribute to the use of generative AI in practice and provid
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-[//]: # (Grant)
+[//]: ## (Grant)
 
-[//]: # (----)
+[//]: ## (----)
 
-[//]: # (* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.)
+[//]: ## (* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.)

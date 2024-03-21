@@ -13,6 +13,7 @@ Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" sty
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
 I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
+> <span style="color:red"> *Notice* </span> I am looking for short-term research interns including summer interns and exchange students. Salaries will be provided. If you are interested, send me your CV to xu.guo@ntu.edu.sg
 
 Research
 ------
@@ -47,6 +48,8 @@ This research will contribute to the use of generative AI in practice and provid
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-Grant
-----
-* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.
+[//]: # (Grant)
+
+[//]: # (----)
+
+[//]: # (* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.)

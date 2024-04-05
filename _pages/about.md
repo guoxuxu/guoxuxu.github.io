@@ -13,6 +13,8 @@ Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" sty
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
 I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
+> <span style="color:red"> *Hiring!* </span> I am looking for a full-time research associate/research engineer with strong programming skills to work with me on Large Language Models for Health. 
+> If you are interested, please send your CV to my email (right at the left sidebar).
 
 Research
 ------
@@ -52,9 +54,9 @@ This research will contribute to the use of generative AI in practice and provid
 [//]: # ()
 [//]: # (----)
 
-[//]: # ()
-[//]: # (* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.)
 
-[//]: # ()
-[//]: # (----)
+* Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.
+
+
+----
 

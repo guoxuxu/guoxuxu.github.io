@@ -13,8 +13,10 @@ Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" sty
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
 I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
-> <span style="color:red"> *Hiring!* </span> I am looking for a full-time research engineer/research associate with strong programming skills to work with me on Large Language Models for Health under Alibaba-NTU Corporate Lab. 
-> If you are interested, please send your CV to my email on the left sidebar.
+> <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a 
+> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position are available at NTU. 
+> Candidates will be working on Large Language Models for Health and are required to have relevant programming and research backgrounds in NLP.
+> Should you have further questions, please contact my email on the left sidebar.
 
 Research
 ------

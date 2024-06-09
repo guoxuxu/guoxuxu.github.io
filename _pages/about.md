@@ -12,8 +12,6 @@ I am a Wallenberg-NTU Presidential Postdoctoral Fellow at <a href="https://www.n
 Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" style="color: #4ca772; text-decoration: none;">SCSE, NTU</a>
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
 I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
-> <span style="color:red"> *New!* </span> I am looking for Research Interns! NTU students can also apply for Part-time positions. Undergraduates and postgraduates with relevant programming or research experience in NLP are welcome to apply. 
->  If you're interested, please send your CV to my email listed in the left sidebar.
 
 > <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a 
 > <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position are available at NTU!

@@ -34,7 +34,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 
-<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu*, Yongjie Wang*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)
+<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu\*, Yongjie Wang\*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)
 
 <span style="color: #4ca772">[EMNLP Findings'23]</span> Meizhen Liu, **Xu Guo**, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui. "InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer". (Long Paper)
 

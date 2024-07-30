@@ -11,23 +11,46 @@ redirect_from:
 I am a Wallenberg-NTU Presidential Postdoctoral Fellow at <a href="https://www.ntu.edu.sg/" style="color: #4ca772; text-decoration: none;">Nanyang Technological University, Singapore</a> advised by Prof. <a href="https://dr.ntu.edu.sg/cris/rp/rp00084" style="color: #4ca772; text-decoration: none;">Miao Chun Yan</a>.
 Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" style="color: #4ca772; text-decoration: none;">SCSE, NTU</a>
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
-I received my Ph.D. degree from NTU in 2023, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
+I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
 > <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a 
-> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position are available at NTU!
-> Candidates will be working on Large Language Models for Health. 
+> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position is available at NTU!
+> Candidates will be working on Large Language Models for Health. Please send me your CV if you're interested.
 
-Research
-------
+## Research
 
-My PhD research was mostly driven by developing methods to adapt Pretrained Language Models to low-resource domains against potential domain shift. 
+My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
 My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
-provides a few promising solutions to adapt PLMs to data-scarce domains under different resource constraints. 
+provides a few promising solutions including latent optimization and parameter-efficient learning to boost PLMs in data-scarce domains under different resource constraints. 
 
-As Generative AI, on top of large PLMs, increasingly plays an important role in our daily life, it is essential to think about the following research problems: 
-when do we need synthetic data generation, what is the quality of the generated content, and how to effectively and efficiently utilize the generated data? 
-This research will contribute to the use of generative AI in practice and provide sustainable benefits to society.
+On top of large PLMs or LLMs, my postdoctoral research focus on delivering societal benefits, such as facilitating Generative AI<sup>[[1]](https://arxiv.org/pdf/2403.04190)</sup> and Green AI in the real world.
+In general, I work on efficient synthetic data generation methods<sup>[[2]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526)</sup>, enhancing the robustness of LLMs<sup>[[3]](https://arxiv.org/pdf/2406.06633),[[4]](https://arxiv.org/pdf/2407.03993)</sup>, 
+accelerating LLM inference for high throughput, 
+and merging LLMs for seamless plug-and-play integration.
+They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
+
+### Publications
+
+<span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
+
+<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu*, Yongjie Wang*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)
+
+<span style="color: #4ca772">[EMNLP Findings'23]</span> Meizhen Liu, **Xu Guo**, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui. "InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer". (Long Paper)
+
+<span style="color: #4ca772">[CIKM'23]</span> Meizhen Liu, Jiakai He, **Xu Guo**, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou. "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters". (Long Paper)
+
+<span style="color: #4ca772">[ACM MM'23]</span> Zilin Du, Yunxin Li, **Xu Guo**, Yidan Sun, and Boyang Li. "Training Multimedia Event Extraction With Generated Images and Captions". (Long Paper) 
+
+<span style="color: #4ca772">[IJCNN'22]</span> Fei Luo, Hangwei Qian, Di Wang, **Xu Guo**, Yan Sun, Eng Sing Lee, Hui Hwang Teong, Ray Tian Rui Lai, Chunyan Miao. "Missing value imputation for diabetes prediction". (Long Paper)
+
+<span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper)
+
+<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Specicial Track)
+
+<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper)
+
+<span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper)
 
 [//]: # (News)
 
@@ -56,7 +79,7 @@ This research will contribute to the use of generative AI in practice and provid
 ----
 
 
-Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU PPF, Dec 1, 2023  - Nov 30, 2024, S$100,000.
+Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU Presidential Postdoctoral Fellowship, Dec 1, 2023  - Nov 30, 2024, S$100,000.
 
 
 ----

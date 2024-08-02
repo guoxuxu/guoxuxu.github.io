@@ -19,6 +19,7 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 
 ## Research
 
+----
 My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
 My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
@@ -31,6 +32,8 @@ and merging LLMs for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 
 ### Publications
+
+----
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 
@@ -51,6 +54,8 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 <span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper)
 
 <span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper)
+
+
 
 [//]: # (News)
 
@@ -75,10 +80,14 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 ### Fellowship and Grant
 
+
 ----
+
 1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2024 Dec. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
 2. WiEST Development Grant, 2023. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
 3. Student Travel Grant, 2019. Awared by IJCAI. U\$ 350
+
+
 ----
 
 

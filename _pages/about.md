@@ -13,11 +13,16 @@ Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" sty
 under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
 I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
-> <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a 
-> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position is available at NTU!
-> Candidates will be working on Large Language Models for Health. 
+[//]: # (> <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a )
+
+[//]: # (> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer &#40;I or II&#41;</a> position is available at NTU!)
+
+[//]: # (> Candidates will be working on Large Language Models for Health. )
+
 
 ## Research
+
+> Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Meta Learning, Adversarial Learning, etc.).
 
 My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
@@ -30,8 +35,8 @@ accelerating LLM inference for high throughput,
 and merging LLMs for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 
-## Publications
 
+## Publications
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 

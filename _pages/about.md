@@ -32,7 +32,6 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 ## Publications
 
-----
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 
@@ -80,7 +79,6 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 ## Fellowship and Grant
 
 
-----
 
 1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2024 Dec. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
 2. WiEST Development Grant, 2023. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000

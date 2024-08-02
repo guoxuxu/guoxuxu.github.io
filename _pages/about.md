@@ -15,7 +15,7 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 
 > <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a 
 > <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer (I or II)</a> position is available at NTU!
-> Candidates will be working on Large Language Models for Health. Please send me your CV if you're interested.
+> Candidates will be working on Large Language Models for Health. 
 
 ## Research
 
@@ -73,14 +73,13 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-[//]: # (Grant)
+### Fellowship and Grant
 
-
+----
+1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2024 Dec. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
+2. WiEST Development Grant, 2023. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
+3. Student Travel Grant, 2019. Awared by IJCAI. U\$ 350
 ----
 
 
-Principal Investigator, "Advancing Low-resource Regimes with Generative AI", Wallenberg-NTU Presidential Postdoctoral Fellowship, Dec 1, 2023  - Nov 30, 2024, S$100,000.
-
-
-----
 

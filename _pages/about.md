@@ -22,7 +22,7 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 
 ## Research
 
-> Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Meta Learning, Adversarial Learning, etc.).
+> Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Adversarial Learning, Federated Learning, etc.).
 
 My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 

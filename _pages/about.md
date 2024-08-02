@@ -19,7 +19,6 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 
 ## Research
 
-----
 My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
 My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
@@ -31,7 +30,7 @@ accelerating LLM inference for high throughput,
 and merging LLMs for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 
-### Publications
+## Publications
 
 ----
 
@@ -78,7 +77,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-### Fellowship and Grant
+## Fellowship and Grant
 
 
 ----

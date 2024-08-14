@@ -24,19 +24,20 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 
 > Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Adversarial Learning, Federated Learning, etc.).
 
-My PhD research was mostly driven by developing methods to adapt Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
+My PhD research was mostly driven by developing algorithms to adapt (🔥) Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
 My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
-provides a few promising solutions, such as latent optimization<sup>[[1]](https://aclanthology.org/2021.naacl-main.425.pdf)</sup> and parameter-efficient learning<sup>[[2]](https://aclanthology.org/2022.findings-emnlp.258.pdf)</sup>, to boost PLMs in data-scarce domains under different resource constraints. 
+provides a few promising solutions, such as 🚀latent optimization<sup>[[1]](https://aclanthology.org/2021.naacl-main.425.pdf)</sup> and ❄️parameter-efficient learning<sup>[[2]](https://aclanthology.org/2022.findings-emnlp.258.pdf)</sup>, to boost PLMs in data-scarce domains under different resource constraints. 
 
 On top of large PLMs or LLMs, my postdoctoral research focus on delivering societal benefits, such as facilitating Generative AI<sup>[[3]](https://arxiv.org/pdf/2403.04190)</sup> and Green AI in the real world.
-In general, I work on efficient synthetic data generation methods<sup>[[4]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526)</sup>, enhancing the robustness of LLMs<sup>[[5]](https://arxiv.org/pdf/2406.06633),[[6]](https://arxiv.org/pdf/2407.03993)</sup>, 
-accelerating LLM inference for high throughput, 
-and merging LLMs for seamless plug-and-play integration.
+In general, I work on efficient synthetic data generation methods<sup>[[4]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526)</sup>, 
+💪enhancing the robustness of LLMs<sup>[[5]](https://arxiv.org/pdf/2406.06633),[[6]](https://arxiv.org/pdf/2407.03993)</sup>, 
+🚀accelerating LLM inference for high throughput, 
+and ❄️merging LLMs for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 
 
-## Publications
+## Publications 📖
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 
@@ -81,7 +82,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-## Fellowship and Grant
+## Fellowship and Grant 🏆
 
 
 

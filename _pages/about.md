@@ -27,17 +27,21 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 My PhD research was mostly driven by developing algorithms to adapt (🔥) Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
 My thesis, <a href="https://dr.ntu.edu.sg/bitstream/10356/167965/2/PhD_Thesis_GuoXu.pdf" style="color: #4ca772; text-decoration: none;">data-efficient domain adaptation for pretrained language models</a>, 
-provides a few promising solutions, such as 🚀latent optimization<sup>[[1]](https://aclanthology.org/2021.naacl-main.425.pdf)</sup> and ❄️parameter-efficient learning<sup>[[2]](https://aclanthology.org/2022.findings-emnlp.258.pdf)</sup>, to boost PLMs in data-scarce domains under different resource constraints. 
+provides a few promising solutions, such as latent optimization<sup>[[1]](https://aclanthology.org/2021.naacl-main.425.pdf)</sup>, parameter-efficient adaptation<sup>[[2]](https://aclanthology.org/2022.findings-emnlp.258.pdf)</sup> (❄️), 
+and personalization<sup>[[3]](https://dl.acm.org/doi/10.1145/3511710)</sup>, to boost PLMs in data-scarce domains under different resource constraints and settings. 
 
-On top of large PLMs or LLMs, my postdoctoral research focus on delivering societal benefits, such as facilitating Generative AI<sup>[[3]](https://arxiv.org/pdf/2403.04190)</sup> and Green AI in the real world.
-In general, I work on efficient synthetic data generation methods<sup>[[4]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526)</sup>, 
-💪enhancing the robustness of LLMs<sup>[[5]](https://arxiv.org/pdf/2406.06633),[[6]](https://arxiv.org/pdf/2407.03993)</sup>, 
-🚀accelerating LLM inference for high throughput, 
-and ❄️merging LLMs for seamless plug-and-play integration.
+On top of larger PLMs or LLMs for short, my postdoctoral research focus on delivering societal benefits through, e.g., Generative AI<sup>[[4]](https://arxiv.org/pdf/2403.04190)</sup> and Green AI in the real world.
+In general, I work on efficient synthetic data generation methods<sup>[[5]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526),[[6]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)</sup>, 
+enhancing the robustness of LLMs<sup>💪</sup><sup>[[7]](https://arxiv.org/pdf/2406.06633),[[8]](https://arxiv.org/pdf/2407.03993)</sup>, 
+accelerating LLM<sup>🚀</sup> inference for high throughput, 
+and merging LLM for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 
 
 ## Publications 📖
+<span style="color: #4ca772">[EMNLP'24]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. "RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference" (Long Paper)
+
+<span style="color: #4ca772">[EMNLP Findings'24]</span> Yongjie Wang, Xiaoqi Qiu, Yue Yu, **Xu Guo**, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen. "A Survey on Natural Language Counterfactual Generation" (Long Paper)
 
 <span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
 

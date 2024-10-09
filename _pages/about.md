@@ -33,7 +33,7 @@ and personalization<sup>[[3]](https://dl.acm.org/doi/10.1145/3511710)</sup>, to 
 On top of larger PLMs or LLMs for short, my postdoctoral research focus on delivering societal benefits through, e.g., Generative AI<sup>[[4]](https://arxiv.org/pdf/2403.04190)</sup> and Green AI in the real world.
 In general, I work on efficient synthetic data generation methods<sup>[[5]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612526),[[6]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)</sup>, 
 enhancing the robustness of LLMs<sup>💪</sup><sup>[[7]](https://arxiv.org/pdf/2406.06633),[[8]](https://arxiv.org/pdf/2407.03993)</sup>, 
-accelerating LLM<sup>🚀</sup> inference for high throughput, 
+accelerating LLM<sup>🚀[[9]](https://arxiv.org/pdf/2410.04519)</sup> inference for high throughput, 
 and merging LLM for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
 

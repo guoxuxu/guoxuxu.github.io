@@ -57,7 +57,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 <span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper)
 
-<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Special Track)
+<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper)
 
 <span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper)
 

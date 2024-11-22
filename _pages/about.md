@@ -57,9 +57,9 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 <span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper)
 
-<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper)
+<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper) <span style="color: red">[FL-IJCAI Best Application Paper Award]</span>
 
-<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper)
+<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper) <span style="color: red">[PREMIA Best Presentation Award]</span>
 
 <span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper)
 

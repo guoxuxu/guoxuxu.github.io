@@ -39,29 +39,29 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 
 ## Publications 📖
-<span style="color: #4ca772">[EMNLP'24]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. "RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference" (Long Paper)
+<span style="color: #4ca772">[EMNLP'24]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. "RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference" (Long Paper) [[Oral Talk]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)
 
-<span style="color: #4ca772">[EMNLP Findings'24]</span> Yongjie Wang, Xiaoqi Qiu, Yue Yu, **Xu Guo**, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen. "A Survey on Natural Language Counterfactual Generation" (Long Paper)
+<span style="color: #4ca772">[EMNLP Findings'24]</span> Yongjie Wang, Xiaoqi Qiu, Yue Yu, **Xu Guo**, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen. "A Survey on Natural Language Counterfactual Generation" (Long Paper)[[Paper]](https://aclanthology.org/2024.findings-emnlp.276.pdf)
 
-<span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)
+<span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)[[Poster]](https://x.com/xuguo_nlp/status/1843294899611009062)[[Paper]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)
 
-<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu\*, Yongjie Wang\*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)
+<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu\*, Yongjie Wang\*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)[[Video]](https://doi.org/10.48448/dnw2-cq56)[[Paper]](https://aclanthology.org/2024.acl-long.646.pdf)[[Code]](https://github.com/Siki-cloud/PairCFR)
 
-<span style="color: #4ca772">[EMNLP Findings'23]</span> Meizhen Liu, **Xu Guo**, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui. "InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer". (Long Paper)
+<span style="color: #4ca772">[EMNLP Findings'23]</span> Meizhen Liu, **Xu Guo**, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui. "InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer". (Long Paper) [[Paper]](https://aclanthology.org/2023.findings-emnlp.335.pdf)
 
-<span style="color: #4ca772">[CIKM'23]</span> Meizhen Liu, Jiakai He, **Xu Guo**, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou. "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters". (Long Paper)
+<span style="color: #4ca772">[CIKM'23]</span> Meizhen Liu, Jiakai He, **Xu Guo**, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou. "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters". (Long Paper; Oral) [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614896)[[Code]](https://github.com/meizhen-nlp/GranCATs)
 
-<span style="color: #4ca772">[ACM MM'23]</span> Zilin Du, Yunxin Li, **Xu Guo**, Yidan Sun, and Boyang Li. "Training Multimedia Event Extraction With Generated Images and Captions". (Long Paper) 
+<span style="color: #4ca772">[ACM MM'23]</span> Zilin Du, Yunxin Li, **Xu Guo**, Yidan Sun, and Boyang Li. "Training Multimedia Event Extraction With Generated Images and Captions". (Long Paper) [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612526)[[Code]](https://github.com/ZILIN003/CAMEL)
 
-<span style="color: #4ca772">[IJCNN'22]</span> Fei Luo, Hangwei Qian, Di Wang, **Xu Guo**, Yan Sun, Eng Sing Lee, Hui Hwang Teong, Ray Tian Rui Lai, Chunyan Miao. "Missing value imputation for diabetes prediction". (Long Paper)
+<span style="color: #4ca772">[IJCNN'22]</span> Fei Luo, Hangwei Qian, Di Wang, **Xu Guo**, Yan Sun, Eng Sing Lee, Hui Hwang Teong, Ray Tian Rui Lai, Chunyan Miao. "Missing value imputation for diabetes prediction". (Long Paper) [[Paper]](https://ieeexplore.ieee.org/document/9892398)
 
-<span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper)
+<span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper) [[Video]](https://doi.org/10.48448/5wkx-cp69)[[Paper]](https://aclanthology.org/2022.findings-emnlp.258.pdf)[[Code]](https://github.com/guoxuxu/soft-prompt-transfer/tree/main/optima)
 
-<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper) <span style="color: red">[FL-IJCAI Best Application Paper Award]</span>
+<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper) [[Paper]](https://dl.acm.org/doi/10.1145/3511710)<span style="color: red">[FL-IJCAI Best Application Paper Award]</span> 
 
-<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper) <span style="color: red">[PREMIA Best Presentation Award]</span>
+<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper) <span style="color: red">[PREMIA Best Presentation Award]</span> [[Video]](https://doi.org/10.48448/6j9r-gh59)[[Paper]](https://aclanthology.org/2021.naacl-main.425.pdf)[[Code]](https://github.com/guoxuxu/LOANT)
 
-<span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper)
+<span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper) [[Video]](https://youtu.be/z6wUvrzw0qE)[[Paper]](https://www.ijcai.org/proceedings/2019/943)
 
 
 
@@ -90,7 +90,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 
 
-1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2024 Dec. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
+1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2025 Feb. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
 2. WiEST Development Grant, 2023. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
 3. Student Travel Grant, 2019. Awared by IJCAI. U\$ 350
 

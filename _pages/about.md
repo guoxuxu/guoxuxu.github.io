@@ -86,13 +86,15 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 [//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
 
 
-## Fellowship and Grant 🏆
+## Honors and Awards 🏆
 
-
-
-1. Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023 Dec - 2025 Feb. NTU, Singapore. Principal Investigator - "Advancing Low-resource Regimes with Generative AI", S$100,000.
-2. WiEST Development Grant, 2023. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
-3. Student Travel Grant, 2019. Awared by IJCAI. U\$ 350
+* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore. S$100,000.
+* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
+* 2021 Best Presentation Award. Pattern Recognition and Machine Intelligence Association [(PREMIA)](https://www.premiasg.org/web/premia-best-student-paper-awards-2021/)
+* 2020 Best Application Paper Award. International Workshop on Federated Learning for User Privacy and Data Confidentiality
+in Conjunction with IJCAI 2020 [(FL-IJCAI'20)](http://fl-ijcai20.federated-learning.org/)
+* 2019 Student Travel Grant. Awarded by IJCAI.
+* 2019 Full Research Scholarship. NTU, Singapore.
 
 
 ----

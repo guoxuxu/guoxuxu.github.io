@@ -21,12 +21,12 @@ I am a Wallenberg-NTU Presidential Postdoctoral Fellow, starting from 2023. I am
 
 My research lies at the intersection of Machine Learning and Natural Language Processing, with a focus on efficiency and generative techniques.
 
-#### Efficient/Low-Resource Methods for NLP
+### Efficient/Low-Resource Methods for NLP
 * Data-efficient learning for downstream tasks
 * Lightweight model adaptation and training strategies
 * Fast and cost-effective inference techniques
 
-#### Generation
+### Generation
 * Synthetic data generation for downstream tasks
 * Data augmentation via controlled generation
 * Generating auxiliary signals to support reasoning and learning

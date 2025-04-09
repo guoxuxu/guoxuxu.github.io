@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Wallenberg-NTU Presidential Postdoctoral Fellow at <a href="https://www.ntu.edu.sg/" style="color: #4ca772; text-decoration: none;">Nanyang Technological University, Singapore</a> advised by Prof. <a href="https://dr.ntu.edu.sg/cris/rp/rp00084" style="color: #4ca772; text-decoration: none;">Miao Chun Yan</a>.
-Previously, I was a research fellow at <a href="https://www.ntu.edu.sg/scse" style="color: #4ca772; text-decoration: none;">SCSE, NTU</a>
-under the supervision of Prof. <a href="http://www.boyangli.org/" style="color: #4ca772; text-decoration: none;">Boyang Albert Li</a>.
-I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
+I am a Wallenberg-NTU Presidential Postdoctoral Fellow, starting from 2023. I am currently based at <a href="https://www.kth.se/" style="color: #4ca772; text-decoration: none;">KTH, Sweden</a>, working with <a href="https://people.kth.se/~skoglund/" style="color: #4ca772; text-decoration: none;">Mikael Skoglund</a>. I spent the first half of my fellowship at <a href="https://www.ntu.edu.sg/" style="color: #4ca772; text-decoration: none;">NTU, Singapore</a>, where I worked with <a href="https://dr.ntu.edu.sg/cris/rp/rp00084" style="color: #4ca772; text-decoration: none;">Miao Chun Yan</a>. I received my Ph.D. from NTU in 2023, advised by <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
 [//]: # (> <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a )
 
@@ -20,9 +17,21 @@ I received my Ph.D. in 2023 from NTU, where I was supervised by Prof. <a href="h
 [//]: # (> Candidates will be working on Large Language Models for Health. )
 
 
-## Research
+## Research Interests 
 
-> Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Adversarial Learning, Federated Learning, etc.).
+My research lies at the intersection of Machine Learning and Natural Language Processing, with a focus on efficiency and generative techniques.
+
+#### Efficient/Low-Resource Methods for NLP
+* Data-efficient learning for downstream tasks
+* Lightweight model adaptation and training strategies
+* Fast and cost-effective inference techniques
+
+#### Generation
+* Synthetic data generation for downstream tasks
+* Data augmentation via controlled generation
+* Generating auxiliary signals to support reasoning and learning
+
+<!-- > Research Interests: 1. Natural Language Processing (Pretrained Language Models, Language Understanding, Language Generation, etc.); 2. Machine Learning (Transfer Learning, Adversarial Learning, Federated Learning, etc.).
 
 My PhD research was mostly driven by developing algorithms to adapt (🔥) Pretrained Language Models (PLMs) to low-resource domains against potential domain shift. 
 Check out the survey, <a href="https://arxiv.org/pdf/2211.03154.pdf" style="color: #4ca772; text-decoration: none;">on the domain adaptation and generalization of pretrained lanaguage models</a>. 
@@ -35,7 +44,10 @@ In general, I work on efficient synthetic data generation methods<sup>[[5]](http
 enhancing the robustness of LLMs<sup>💪</sup><sup>[[7]](https://arxiv.org/pdf/2406.06633),[[8]](https://arxiv.org/pdf/2407.03993)</sup>, 
 accelerating LLM<sup>🚀[[9]](https://arxiv.org/pdf/2410.04519)</sup> inference for high throughput, 
 and merging LLM for seamless plug-and-play integration.
-They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth.
+They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth. -->
+
+## Preprints
+<span style="color:rgb(241, 12, 12)">[NEW]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs. [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
 
 
 ## Publications 📖
@@ -87,9 +99,9 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 
 ## Honors and Awards 🏆
-
-* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore. S$100,000.
-* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU. S$3,000
+* 2025 Wallenberg-NTU Presidential Postdoctoral Fellowship. WASP, Sweden. 300,000 SEK
+* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore. 100,000 SGD
+* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU. 3,000 SGD
 * 2021 Best Presentation Award. Pattern Recognition and Machine Intelligence Association [(PREMIA)](https://www.premiasg.org/web/premia-best-student-paper-awards-2021/)
 * 2020 Best Application Paper Award. International Workshop on Federated Learning for User Privacy and Data Confidentiality
 in Conjunction with IJCAI 2020 [(FL-IJCAI'20)](http://fl-ijcai20.federated-learning.org/)

@@ -99,9 +99,9 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 
 ## Honors and Awards 🏆
-* 2025 Wallenberg-NTU Presidential Postdoctoral Fellowship. WASP, Sweden. 300,000 SEK
-* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore. 100,000 SGD
-* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU. 3,000 SGD
+* 2025 Wallenberg-NTU Presidential Postdoctoral Fellowship. WASP, Sweden
+* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore
+* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU
 * 2021 Best Presentation Award. Pattern Recognition and Machine Intelligence Association [(PREMIA)](https://www.premiasg.org/web/premia-best-student-paper-awards-2021/)
 * 2020 Best Application Paper Award. International Workshop on Federated Learning for User Privacy and Data Confidentiality
 in Conjunction with IJCAI 2020 [(FL-IJCAI'20)](http://fl-ijcai20.federated-learning.org/)

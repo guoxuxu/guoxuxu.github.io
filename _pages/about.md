@@ -19,7 +19,7 @@ I am a Wallenberg-NTU Presidential Postdoctoral Fellow, starting from 2023. I am
 
 ## Research Interests 
 
-My research lies at the intersection of Machine Learning and Natural Language Processing, with a focus on efficiency and generative techniques.
+My research lies at the intersection of Machine Learning and Natural Language Processing, with a focus on efficient and generative techniques for LLMs.
 
 ### Efficient/Low-Resource Methods for NLP
 * Data-efficient learning for downstream tasks
@@ -47,66 +47,57 @@ and merging LLM for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth. -->
 
 ## Preprints
-<span style="color:rgb(241, 12, 12)">[NEW]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs. [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
+* <span style="color:rgb(241, 12, 12)">[NEW]</span> **SoftCoT++: Test-Time Scaling with SoftChain-of-Thought Reasoning**
+</br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
 
 
 ## Publications 📖
-<span style="color: #4ca772">[EMNLP'24]</span> Yige Xu, **Xu Guo**, Zhiwei Zeng, Chunyan Miao. "RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference" (Long Paper) [[Oral Talk]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)
-
-<span style="color: #4ca772">[EMNLP Findings'24]</span> Yongjie Wang, Xiaoqi Qiu, Yue Yu, **Xu Guo**, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen. "A Survey on Natural Language Counterfactual Generation" (Long Paper)[[Paper]](https://aclanthology.org/2024.findings-emnlp.276.pdf)
-
-<span style="color: #4ca772">[COLM'24]</span> **Xu Guo**, Zilin Du, Boyang Li, Chunyan Miao. "Generating Synthetic Datasets for Few-shot Prompt Tuning" (Long Paper)[[Poster]](https://x.com/xuguo_nlp/status/1843294899611009062)[[Paper]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)
-
-<span style="color: #4ca772">[ACL'24]</span> Xiaoqi Qiu\*, Yongjie Wang\*, **Xu Guo**, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao. "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning" (Long Paper)[[Video]](https://doi.org/10.48448/dnw2-cq56)[[Paper]](https://aclanthology.org/2024.acl-long.646.pdf)[[Code]](https://github.com/Siki-cloud/PairCFR)
-
-<span style="color: #4ca772">[EMNLP Findings'23]</span> Meizhen Liu, **Xu Guo**, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui. "InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer". (Long Paper) [[Paper]](https://aclanthology.org/2023.findings-emnlp.335.pdf)
-
-<span style="color: #4ca772">[CIKM'23]</span> Meizhen Liu, Jiakai He, **Xu Guo**, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou. "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters". (Long Paper; Oral) [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614896)[[Code]](https://github.com/meizhen-nlp/GranCATs)
-
-<span style="color: #4ca772">[ACM MM'23]</span> Zilin Du, Yunxin Li, **Xu Guo**, Yidan Sun, and Boyang Li. "Training Multimedia Event Extraction With Generated Images and Captions". (Long Paper) [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612526)[[Code]](https://github.com/ZILIN003/CAMEL)
-
-<span style="color: #4ca772">[IJCNN'22]</span> Fei Luo, Hangwei Qian, Di Wang, **Xu Guo**, Yan Sun, Eng Sing Lee, Hui Hwang Teong, Ray Tian Rui Lai, Chunyan Miao. "Missing value imputation for diabetes prediction". (Long Paper) [[Paper]](https://ieeexplore.ieee.org/document/9892398)
-
-<span style="color: #4ca772">[EMNLP Findings'22]</span> **Xu Guo**, Boyang Li, Han Yu. "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation". (Long Paper) [[Video]](https://doi.org/10.48448/5wkx-cp69)[[Paper]](https://aclanthology.org/2022.findings-emnlp.258.pdf)[[Code]](https://github.com/guoxuxu/soft-prompt-transfer/tree/main/optima)
-
-<span style="color: #4ca772">[ACM TIST'22]</span> **Xu Guo**, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao. "Federated learning for personalized humor recognition" (Long Paper) [[Paper]](https://dl.acm.org/doi/10.1145/3511710)<span style="color: red">[FL-IJCAI Best Application Paper Award]</span> 
-
-<span style="color: #4ca772">[NAACL'21]</span> **Xu Guo**, Boyang Li, Han Yu, Chunyan Miao. "Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection" (Long Paper) <span style="color: red">[PREMIA Best Presentation Award]</span> [[Video]](https://doi.org/10.48448/6j9r-gh59)[[Paper]](https://aclanthology.org/2021.naacl-main.425.pdf)[[Code]](https://github.com/guoxuxu/LOANT)
-
-<span style="color: #4ca772">[IJCAI'19]</span> **Xu Guo**, Han Yu, Chunyan Miao, and Yiqiang Chen. "Agent-based Decision Support for Pain Management in Primary Care Settings" (Demo Paper) [[Video]](https://youtu.be/z6wUvrzw0qE)[[Paper]](https://www.ijcai.org/proceedings/2019/943)
-
-
-
-[//]: # (News)
-
-[//]: # (---)
-
-[//]: # (* 10.23/2023. Served as a Session Chair at CIKM.)
-
-[//]: # (* 10.9/2023. Visiting TUM, Germany.)
-
-[//]: # (* 10/2023. One [paper]&#40;https://aclanthology.org/2023.findings-emnlp.335.pdf&#41; accepted to EMNLP Findings. )
-
-[//]: # (* 08/2023. One [paper]&#40;https://dl.acm.org/doi/pdf/10.1145/3583780.3614896&#41; accepted to CIKM. )
-
-[//]: # (* 07/2023. One [paper]&#40;https://browse.arxiv.org/pdf/2306.08966.pdf&#41; accepted to ACM MM.)
-
-[//]: # (* 06/2023. Awarded [Wallenberg-NTU Presidential Postdoctoral Fellowship.]&#40;https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-&#40;ppf&#41;#Content_C048_Col01&#41;)
-
-[//]: # (* 02/05/2023. Successfully defended my PhD.)
-
-[//]: # (* 02/2023. Awarded [WiEST Development Grant]&#40;https://www.ntu.edu.sg/women/wiest-development-grant&#41;. Women in STEM at NTU.)
+* **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.**
+  </br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_
+  </br>ACL, 2025 [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
+* **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**
+  </br>_Junru Zhang, Lang Feng, Xu Guo, Han Yu, Yabo Dong, Duanqing Xu_
+  </br>KDD, 2025 
+* **RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**
+  </br>_Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao_
+  </br>EMNLP, 2024 [[Lecture]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)
+* **A Survey on Natural Language Counterfactual Generation**
+  </br>_Yongjie Wang*, Xiaoqi Qiu*, Yue Yu, Xu Guo, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen._
+  </br>EMNLP Findings, 2024 [[Paper]](https://aclanthology.org/2024.findings-emnlp.276.pdf)
+* **Generating Synthetic Datasets for Few-shot Prompt Tuning**
+  </br>_Xu Guo, Zilin Du, Boyang Li, Chunyan Miao_
+  </br>COLM, 2024 [[Poster]](https://x.com/xuguo_nlp/status/1843294899611009062)[[Paper]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)
+* **PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning**
+  </br>_Xiaoqi Qiu*, Yongjie Wang\*, Xu Guo, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao_
+  </br>ACL, 2024 [[Lecture]](https://doi.org/10.48448/dnw2-cq56)[[Paper]](https://aclanthology.org/2024.acl-long.646.pdf)[[Code]](https://github.com/Siki-cloud/PairCFR)
+* **InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer**
+  </br>_Meizhen Liu, Xu Guo, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui_
+  </br>EMNLP Findings, 2023 [[Paper]](https://aclanthology.org/2023.findings-emnlp.335.pdf)
+* **GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters**
+  </br>_Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou_
+  </br>CIKM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614896)[[Code]](https://github.com/meizhen-nlp/GranCATs)
+* **Training Multimedia Event Extraction With Generated Images and Captions**
+  </br>_Zilin Du, Yunxin Li, Xu Guo, Yidan Sun, and Boyang Li_
+  </br>ACM MM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612526)[[Code]](https://github.com/ZILIN003/CAMEL)
+* **Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation**
+  </br>_Xu Guo, Boyang Li, Han Yu_
+  </br>EMNLP Findings, 2022 [[Lecture]](https://doi.org/10.48448/5wkx-cp69)[[Paper]](https://aclanthology.org/2022.findings-emnlp.258.pdf)[[Code]](https://github.com/guoxuxu/soft-prompt-transfer/tree/main/optima)
+* **Federated learning for personalized humor recognition**
+  </br>_Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao_
+  </br>ACM TIST, 2022 [[Paper]](https://dl.acm.org/doi/10.1145/3511710)
+* **Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection**
+  </br>_Xu Guo, Boyang Li, Han Yu, Chunyan Miao_
+  </br>NAACL, 2021 [[Lecture]](https://doi.org/10.48448/6j9r-gh59)[[Paper]](https://aclanthology.org/2021.naacl-main.425.pdf)[[Code]](https://github.com/guoxuxu/LOANT)
 
 
 ## Honors and Awards 🏆
-* 2025 Wallenberg-NTU Presidential Postdoctoral Fellowship. WASP, Sweden. 300,000 SEK
-* 2023 Wallenberg-NTU Presidential Postdoctoral Fellowship. NTU, Singapore. 100,000 SGD
-* 2023 WiEST Development Grant. Awarded by Women in Engineering, Science, and Technology, NTU. 3,000 SGD
-* 2021 Best Presentation Award. Pattern Recognition and Machine Intelligence Association [(PREMIA)](https://www.premiasg.org/web/premia-best-student-paper-awards-2021/)
-* 2020 Best Application Paper Award. International Workshop on Federated Learning for User Privacy and Data Confidentiality
-in Conjunction with IJCAI 2020 [(FL-IJCAI'20)](http://fl-ijcai20.federated-learning.org/)
-* 2019 Student Travel Grant. Awarded by IJCAI.
-* 2019 Full Research Scholarship. NTU, Singapore.
+* Wallenberg-NTU Presidential Postdoctoral Fellowship. 2023
+* WiEST Development Grant. Women in Engineering, Science, and Technology, NTU. 2023
+* Best Presentation Award. Pattern Recognition and Machine Intelligence Association. 2021
+* Best Application Paper Award. International Workshop on Federated Learning for User Privacy and Data Confidentiality
+in Conjunction with IJCAI 2020
+* Student Travel Grant. Awarded by IJCAI. 2019
+* NTU Research Scholarship. NTU, Singapore. 2019
 
 
 ----

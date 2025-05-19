@@ -41,50 +41,46 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 ## Preprints
 * <span style="color:rgb(241, 12, 12)">[NEW]</span> **SoftCoT++: Test-Time Scaling with SoftChain-of-Thought Reasoning**
-  </br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2505.11484)[[Code]](https://github.com/xuyige/SoftCoT)
-<!-- * <span style="color:rgb(241, 12, 12)">[NEW]</span> ****
-  </br>__[[Paper]]()[[Code]]()
-* <span style="color:rgb(241, 12, 12)">[NEW]</span> ****
-  </br>__[[Paper]]()[[Code]]() -->
+  <br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2505.11484)[[Code]](https://github.com/xuyige/SoftCoT)
 
 
 ## Publications 📖
 * **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.**
-  </br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_
-  </br>ACL, 2025 [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
+  <br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_
+  <br>ACL, 2025 [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
 * **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**
-  </br>_Junru Zhang, Lang Feng, Xu Guo, Han Yu, Yabo Dong, Duanqing Xu_
-  </br>KDD, 2025 
+  <br>_Junru Zhang, Lang Feng, Xu Guo, Han Yu, Yabo Dong, Duanqing Xu_
+  <br>KDD, 2025 
 * **RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**
-  </br>_Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao_
-  </br>EMNLP, 2024 [[Lecture]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)
+  <br>_Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao_
+  <br>EMNLP, 2024 [[Lecture]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)
 * **A Survey on Natural Language Counterfactual Generation**
-  </br>_Yongjie Wang*, Xiaoqi Qiu*, Yue Yu, Xu Guo, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen._
-  </br>EMNLP Findings, 2024 [[Paper]](https://aclanthology.org/2024.findings-emnlp.276.pdf)
+  <br>_Yongjie Wang*, Xiaoqi Qiu*, Yue Yu, Xu Guo, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen._
+  <br>EMNLP Findings, 2024 [[Paper]](https://aclanthology.org/2024.findings-emnlp.276.pdf)
 * **Generating Synthetic Datasets for Few-shot Prompt Tuning**
-  </br>_Xu Guo, Zilin Du, Boyang Li, Chunyan Miao_
-  </br>COLM, 2024 [[Poster]](https://x.com/xuguo_nlp/status/1843294899611009062)[[Paper]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)
+  <br>_Xu Guo, Zilin Du, Boyang Li, Chunyan Miao_
+  <br>COLM, 2024 [[Poster]](https://x.com/xuguo_nlp/status/1843294899611009062)[[Paper]](https://openreview.net/pdf/22a35aecb8e57c14e0f014a23df9807ab7d1a1e1.pdf)
 * **PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning**
-  </br>_Xiaoqi Qiu*, Yongjie Wang\*, Xu Guo, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao_
-  </br>ACL, 2024 [[Lecture]](https://doi.org/10.48448/dnw2-cq56)[[Paper]](https://aclanthology.org/2024.acl-long.646.pdf)[[Code]](https://github.com/Siki-cloud/PairCFR)
+  <br>_Xiaoqi Qiu*, Yongjie Wang\*, Xu Guo, Zhiwei Zeng, Yue Yu, Yuhong Feng, and Chunyan Miao_
+  <br>ACL, 2024 [[Lecture]](https://doi.org/10.48448/dnw2-cq56)[[Paper]](https://aclanthology.org/2024.acl-long.646.pdf)[[Code]](https://github.com/Siki-cloud/PairCFR)
 * **InteMATs: Integrating Granularity-Specific Multilingual Adapters for Cross-Lingual Transfer**
-  </br>_Meizhen Liu, Xu Guo, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui_
-  </br>EMNLP Findings, 2023 [[Paper]](https://aclanthology.org/2023.findings-emnlp.335.pdf)
+  <br>_Meizhen Liu, Xu Guo, Jiakai He, Jianye Chen, Fengyu Zhou, and Siu Hui_
+  <br>EMNLP Findings, 2023 [[Paper]](https://aclanthology.org/2023.findings-emnlp.335.pdf)
 * **GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters**
-  </br>_Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou_
-  </br>CIKM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614896)[[Code]](https://github.com/meizhen-nlp/GranCATs)
+  <br>_Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou_
+  <br>CIKM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614896)[[Code]](https://github.com/meizhen-nlp/GranCATs)
 * **Training Multimedia Event Extraction With Generated Images and Captions**
-  </br>_Zilin Du, Yunxin Li, Xu Guo, Yidan Sun, and Boyang Li_
-  </br>ACM MM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612526)[[Code]](https://github.com/ZILIN003/CAMEL)
+  <br>_Zilin Du, Yunxin Li, Xu Guo, Yidan Sun, and Boyang Li_
+  <br>ACM MM, 2023 [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612526)[[Code]](https://github.com/ZILIN003/CAMEL)
 * **Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation**
-  </br>_Xu Guo, Boyang Li, Han Yu_
-  </br>EMNLP Findings, 2022 [[Lecture]](https://doi.org/10.48448/5wkx-cp69)[[Paper]](https://aclanthology.org/2022.findings-emnlp.258.pdf)[[Code]](https://github.com/guoxuxu/soft-prompt-transfer/tree/main/optima)
+  <br>_Xu Guo, Boyang Li, Han Yu_
+  <br>EMNLP Findings, 2022 [[Lecture]](https://doi.org/10.48448/5wkx-cp69)[[Paper]](https://aclanthology.org/2022.findings-emnlp.258.pdf)[[Code]](https://github.com/guoxuxu/soft-prompt-transfer/tree/main/optima)
 * **Federated learning for personalized humor recognition**
-  </br>_Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao_
-  </br>ACM TIST, 2022 [[Paper]](https://dl.acm.org/doi/10.1145/3511710)
+  <br>_Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao_
+  <br>ACM TIST, 2022 [[Paper]](https://dl.acm.org/doi/10.1145/3511710)
 * **Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection**
-  </br>_Xu Guo, Boyang Li, Han Yu, Chunyan Miao_
-  </br>NAACL, 2021 [[Lecture]](https://doi.org/10.48448/6j9r-gh59)[[Paper]](https://aclanthology.org/2021.naacl-main.425.pdf)[[Code]](https://github.com/guoxuxu/LOANT)
+  <br>_Xu Guo, Boyang Li, Han Yu, Chunyan Miao_
+  <br>NAACL, 2021 [[Lecture]](https://doi.org/10.48448/6j9r-gh59)[[Paper]](https://aclanthology.org/2021.naacl-main.425.pdf)[[Code]](https://github.com/guoxuxu/LOANT)
 
 
 ## Honors and Awards 🏆

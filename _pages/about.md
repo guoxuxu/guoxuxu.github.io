@@ -10,13 +10,6 @@ redirect_from:
 
 I am a Wallenberg-NTU Presidential Postdoctoral Fellow, starting from 2023. I am currently based at <a href="https://www.kth.se/" style="color: #4ca772; text-decoration: none;">KTH, Sweden</a>, working with <a href="https://people.kth.se/~skoglund/" style="color: #4ca772; text-decoration: none;">Mikael Skoglund</a>. I spent the first half of my fellowship at <a href="https://www.ntu.edu.sg/" style="color: #4ca772; text-decoration: none;">NTU, Singapore</a>, where I worked with <a href="https://dr.ntu.edu.sg/cris/rp/rp00084" style="color: #4ca772; text-decoration: none;">Miao Chun Yan</a>. I received my Ph.D. from NTU in 2023, advised by <a href="https://personal.ntu.edu.sg/han.yu/" style="color: #4ca772; text-decoration: none;">Han Yu</a>.
 
-[//]: # (> <span style="color:red"> *Hiring!* </span> A <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Scientist--Computer-Science-Natural-Language-Processing-_R00017008">Research Scientist</a> and a )
-
-[//]: # (> <a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/details/Research-Engineer-I-or-II--Computer-Science--Natural-Language-Processing-_R00017009"> Research Engineer &#40;I or II&#41;</a> position is available at NTU!)
-
-[//]: # (> Candidates will be working on Large Language Models for Health. )
-
-
 ## Research Interests 
 
 My research lies at the intersection of Machine Learning and Natural Language Processing, with a focus on efficient and generative techniques for LLMs.
@@ -48,7 +41,11 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 
 ## Preprints
 * <span style="color:rgb(241, 12, 12)">[NEW]</span> **SoftCoT++: Test-Time Scaling with SoftChain-of-Thought Reasoning**
-</br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)
+  </br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2505.11484)[[Code]](https://github.com/xuyige/SoftCoT)
+<!-- * <span style="color:rgb(241, 12, 12)">[NEW]</span> ****
+  </br>__[[Paper]]()[[Code]]()
+* <span style="color:rgb(241, 12, 12)">[NEW]</span> ****
+  </br>__[[Paper]]()[[Code]]() -->
 
 
 ## Publications 📖
@@ -101,6 +98,3 @@ in Conjunction with IJCAI 2020
 
 
 ----
-
-
-

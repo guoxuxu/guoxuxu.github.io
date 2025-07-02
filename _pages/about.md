@@ -40,8 +40,11 @@ and merging LLM for seamless plug-and-play integration.
 They are mainly done in a parameter-efficient manner and aim to contribute to our sustainable earth. -->
 
 ## Preprints
-* <span style="color:rgb(241, 12, 12)">[NEW]</span> **SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**
+* **SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**
   <br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2505.11484)[[Code]](https://github.com/xuyige/SoftCoT)
+* **TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**
+  <br>_Junru Zhang*, Lang Feng*, Xu Guo, Yuhan Wu, Yabo Dong, Duanqing Xu_ . [[Paper]](https://arxiv.org/abs/2506.13705)[[Code]](https://github.com/langfengQ/TimeMaster)
+   
 
 
 ## Publications 📖

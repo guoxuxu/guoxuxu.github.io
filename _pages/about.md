@@ -43,7 +43,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
 * **SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**
   <br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_ . [[Paper]](https://arxiv.org/abs/2505.11484)[[Code]](https://github.com/xuyige/SoftCoT)
 * **TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**
-  <br>_Junru Zhang*, Lang Feng*, Xu Guo, Yuhan Wu, Yabo Dong, Duanqing Xu_ . [[Paper]](https://arxiv.org/abs/2506.13705)[[Code]](https://github.com/langfengQ/TimeMaster)
+  <br>_Junru Zhang*, Lang Feng*, Xu Guo, Yuhan Wu, Yabo Dong, Duanqing Xu_ . [[Paper]](https://arxiv.org/abs/2506.13705)[[Code]](https://github.com/langfengQ/TimeMaster)[[Model]](https://huggingface.co/langfeng01/TimeMaster-SFT-Qwen2.5-VL-3B-CTU)
    
 
 
@@ -53,7 +53,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
   <br>ACL, 2025 [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)[[Data]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 * **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**
   <br>_Junru Zhang, Lang Feng, Xu Guo, Han Yu, Yabo Dong, Duanqing Xu_
-  <br>KDD, 2025 
+  <br>KDD, 2025 [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736909)[[Code]](https://zenodo.org/records/15495436)
 * **RevMUX: Data Multiplexing with Reversible Adapters for Efficient LLM Batch Inference**
   <br>_Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao_
   <br>EMNLP, 2024 [[Lecture]](https://www.youtube.com/watch?v=ZVZszfrKngE)[[Paper]](https://aclanthology.org/2024.emnlp-main.1232.pdf)[[Code]](https://github.com/xuyige/RevMUX)

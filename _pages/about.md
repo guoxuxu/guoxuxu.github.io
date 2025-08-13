@@ -47,7 +47,7 @@ They are mainly done in a parameter-efficient manner and aim to contribute to ou
    
 
 
-## Publications 📖
+## Publications 📖 [[Google Scholar Profile]](https://scholar.google.com/citations?hl=en&user=JpRTl9kAAAAJ)
 * **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.**
   <br>_Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao_
   <br>ACL, 2025 [[Paper]](https://arxiv.org/abs/2502.12134)[[Code]](https://github.com/xuyige/SoftCoT)[[Data]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)

@@ -1,0 +1,335 @@
+/* -------------------- GLOBAL -------------------- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #f2f2f2;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.link-black {
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+}
+.link-black:hover{
+    text-decoration: underline;
+}
+
+
+/* -------------------- SECTION HEADER -------------------- */
+.section-header {
+    width: 100%;
+    margin: 10px 0 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.section-title {
+    font-size: 28px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #222;
+    transition: 0.25s;
+}
+
+.section-title:hover {
+    color: #555;
+}
+
+.section-view-all {
+    text-decoration: none;
+    font-size: 14px;
+    color: #666;
+    transition: 0.3s;
+}
+
+.section-view-all:hover {
+    color: #333;
+    transform: translateX(4px);
+}
+
+
+/* -------------------- PUBLICATION FILTERS -------------------- */
+.pub-controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+.pub-controls input,
+.pub-controls select {
+    padding: 10px 14px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    flex: 1;
+}
+
+.year-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 30px 0 16px;
+}
+
+/* ---- fade-in animation ---- */
+.fade-in {
+    opacity: 0;
+    transform: translateY(12px);
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* -------------------- PROFILE BLOCK -------------------- */
+.profile-block {
+    background: white;
+    padding: 32px;
+    border-radius: 16px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.06);
+    margin-bottom: 32px;
+
+    display: grid;
+    grid-template-columns: 200px 1fr;   
+    grid-column-gap: 32px;
+}
+
+.profile-img-wrapper {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* 右侧信息 */
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile-name {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.profile-desc {
+    font-size: 16px;
+    color: #444;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Short Bio（跨两列） */
+.profile-bio {
+    grid-column: 1 / 3;
+    margin-top: 32px;
+}
+
+.bio-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.bio-text {
+    margin-top: 12px;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #444;
+}
+
+/* Buttons */
+.profile-buttons {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.profile-btn {
+    background: #eaeaea;
+    padding: 8px 16px;
+    border-radius: 8px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.2s ease;
+}
+
+.profile-btn:hover {
+    background: #dcdcdc;
+    transform: translateY(-2px);
+}
+
+
+
+/* -------------------- PAPER BLOCK -------------------- */
+.paper-block {
+    background: white;
+    padding: 18px;
+    border-radius: 12px;
+    margin-bottom: 22px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+    transition: all 0.25s ease;
+}
+
+.paper-block:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.paper-item {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 26px;
+}
+
+.paper-item:last-child {
+    margin-bottom: 0;
+}
+
+.paper-img-wrapper {
+    width: 25%;            
+    max-width: 210px;       
+    border-radius: 8px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paper-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    display: block;
+}
+
+.paper-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    gap: 8px;                   
+    padding: 6px 0;            
+}
+
+.paper-title {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.45;           
+    text-decoration: none;
+    color: #222;
+    transition: color 0.2s;
+}
+
+.paper-title:hover {
+    text-decoration: underline;
+}
+
+.paper-authors {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.45;
+}
+.paper-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 2px;
+}
+
+.paper-btn {
+    background: #e8e8e8;
+    color: #333;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.25s ease;
+    text-decoration: none;
+}
+
+.paper-btn:hover {
+    transform: translateY(-3px);
+    background: #dcdcdc;
+}
+
+
+/* -------------------- MOBILE -------------------- */
+@media (max-width: 650px) {
+
+    /* Profile block: stack vertically */
+    .profile-block {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .profile-img-wrapper {
+        margin: 0 auto 18px;
+        width: 70%;
+        height: auto;
+    }
+
+    .profile-img {
+        width: 100%;
+        height: auto;
+    }
+
+    .profile-buttons {
+        justify-content: center;
+    }
+
+    .profile-bio {
+        grid-column: 1 / 2;
+        text-align: left; 
+    }
+
+    /* -------------------- PAPER BLOCK -------------------- */
+    .paper-item {
+        flex-direction: column; 
+        text-align: center;    
+    }
+
+    .paper-img-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center; 
+    }
+
+    .paper-img {
+        width: 100%;              
+        height: auto;
+        object-fit: cover;
+    }
+
+    .paper-info {
+        width: 100%;
+        text-align: left !important; 
+        margin-top: 12px;
+    }
+}
+

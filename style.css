@@ -61,6 +61,7 @@ body {
     display: flex;
     gap: 12px;
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 .pub-controls input,

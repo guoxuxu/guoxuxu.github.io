@@ -234,7 +234,7 @@ body {
     flex-direction: column;
     justify-content: center;   
     gap: 8px;                   
-    padding: 6px 0;            
+    padding: 10px 10px;            
 }
 
 .paper-title {
@@ -329,7 +329,8 @@ body {
     .paper-info {
         width: 100%;
         text-align: left !important; 
-        margin-top: 12px;
+        margin-top: 0px;
+        padding: 10px 10px;
     }
 }
 

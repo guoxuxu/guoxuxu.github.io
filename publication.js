@@ -24,7 +24,7 @@ const papers = [
         authors: "Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao",
         venue: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
         year: 2025,
-        category: ["LLM", "Efficiency", "Reasoning"],
+        category: ["LLM", "Efficiency", "Reasoning", "Parameter-Efficient Fine-Tuning"],
         img: "./image/pub/softcot.png",
         link: "https://aclanthology.org/2025.acl-long.1137/",
         buttons: [
@@ -56,7 +56,7 @@ const papers = [
         authors: "Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao",
         venue: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). Oral. Accepted with scores 5,5,5,3.5.",
         year: 2024,
-        category: ["LLM", "Efficiency"],
+        category: ["LLM", "Efficiency", "Parameter-Efficient Fine-Tuning"],
         img: "./image/pub/revmux.png",
         link: "https://aclanthology.org/2024.emnlp-main.1232/",
         buttons: [

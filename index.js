@@ -127,7 +127,7 @@ const papers = [
     {
         title: "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters",
         authors: "Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou",
-        venue: "Conference on Information and Knowledge Management (CIKM 2023)",
+        venue: "Conference on Information and Knowledge Management (CIKM 2023). Oral",
         year: 2023,
         category: ["Multilingual", "LLM", "Parameter-Efficient Fine-Tuning", "Transfer Learning"],
         img: "./image/pub/grancats.png",

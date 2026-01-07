@@ -1,6 +1,39 @@
 // ====== paper data ======
 
+const keywords = [
+    "Reinforcement Learning",
+    "Large Language Models",
+    "Vision-Language Models",
+    "Diffusion Models",
+    "Multilingual Language Models",
+    "Multimodal LLMs",
+    "LLM Reasoning",
+    "LLM Agents",
+    "Synthetic Data Generation",
+    "Parameter-Efficient Fine-Tuning",
+    "Efficiency",
+    "Transfer Learning",
+    "Sentiment Analysis",
+    "AI for Healthcare",
+    "Federated Learning",
+    "Interpretability",
+    ];
+
 const papers = [
+    // ===== 2025 TimeMaster =====
+    {
+        title: "TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning",
+        authors: "Junru Zhang, Lang Feng, Xu Guo, Yuhan Wu, Yabo Dong, Duanqing Xu",
+        venue: "The NeurIPS workshop on Recent Advances on Time Series Foundation Models",
+        year: 2025,
+        category: ["Vision-Language Models", "LLM Reasoning", "Multimodal LLMs", "Interpretability", "Reinforcement Learning",],
+        img: "./image/pub/timemaster.png",
+        link: "https://openreview.net/pdf?id=BaID9Ta6Ew",
+        buttons: [
+            { name: "PDF", url: "https://arxiv.org/pdf/2506.13705.pdf" },
+            { name: "Code", url: "https://github.com/langfengQ/TimeMaster" },
+        ]
+    },
 
     // ===== 2025 Slim-SC =====
     {
@@ -8,7 +41,7 @@ const papers = [
         authors: "Colin Hong*, Xu Guo*, Anand Chaanan Singh, Esha Choukse, Dmitrii Ustiugov",
         venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). Oral",
         year: 2025,
-        category: ["LLM", "Efficiency", "Reasoning"],
+        category: ["Large Language Models", "Efficiency", "LLM Reasoning"],
         img: "./image/pub/slimsc.png",
         link: "https://aclanthology.org/2025.emnlp-main.1750/",
         buttons: [
@@ -24,7 +57,7 @@ const papers = [
         authors: "Yige Xu*, Xu Guo*, Zhiwei Zeng, Chunyan Miao",
         venue: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
         year: 2025,
-        category: ["LLM", "Efficiency", "Reasoning", "Parameter-Efficient Fine-Tuning"],
+        category: ["Large Language Models", "Efficiency", "LLM Reasoning", "Parameter-Efficient Fine-Tuning"],
         img: "./image/pub/softcot.png",
         link: "https://aclanthology.org/2025.acl-long.1137/",
         buttons: [
@@ -41,7 +74,7 @@ const papers = [
         authors: "Junru Zhang, Lang Feng, Xu Guo, Han Yu, Yabo Dong, Duanqing Xu",
         venue: "The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025). Oral",
         year: 2025,
-        category: ["Time Series", "Transfer Learning", "Diffusion Models"],
+        category: ["Synthetic Data Generation", "Transfer Learning", "Diffusion Models"],
         img: "./image/pub/seed.png",
         link: "https://dl.acm.org/doi/10.1145/3711896.3736909",
         buttons: [
@@ -56,7 +89,7 @@ const papers = [
         authors: "Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao",
         venue: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). Oral. Accepted with scores 5,5,5,3.5.",
         year: 2024,
-        category: ["LLM", "Efficiency", "Parameter-Efficient Fine-Tuning"],
+        category: ["Large Language Models", "Efficiency", "Parameter-Efficient Fine-Tuning"],
         img: "./image/pub/revmux.png",
         link: "https://aclanthology.org/2024.emnlp-main.1232/",
         buttons: [
@@ -73,7 +106,7 @@ const papers = [
         authors: "Xu Guo, Zilin Du, Boyang Li, Chunyan Miao",
         venue: "Conference on Language Modeling (COLM 2024)",
         year: 2024,
-        category: ["LLM", "Parameter-Efficient Fine-Tuning", "Synthetic Data"],
+        category: ["Large Language Models", "Parameter-Efficient Fine-Tuning", "Synthetic Data Generation"],
         img: "./image/pub/colm.png",
         link: "#",
         buttons: [
@@ -89,7 +122,7 @@ const papers = [
         authors: "Yongjie Wang*, Xiaoqi Qiu*, Yu Yue, Xu Guo, Zhiwei Zeng, Yuhong Feng, Zhiqi Shen",
         venue: "Findings of the Association for Computational Linguistics: EMNLP 2024",
         year: 2024,
-        category: ["LLM", "Synthetic Data", "Survey"],
+        category: ["Large Language Models", "Synthetic Data Generation", "Survey"],
         img: "./image/pub/survey24.png",
         link: "https://aclanthology.org/2024.acl-long.646/",
         buttons: [
@@ -105,7 +138,7 @@ const papers = [
         authors: "Xiaoqi Qiu*, Yongjie Wang*, Xu Guo, Zhiwei Zeng, Yu Yue, Yuhong Feng, Chunyan Miao",
         venue: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)",
         year: 2024,
-        category: ["LLM", "Synthetic Data", "Sentiment Analysis"],
+        category: ["Large Language Models", "Synthetic Data Generation", "Sentiment Analysis"],
         img: "./image/pub/paircfr.png",
         link: "https://aclanthology.org/2024.acl-long.646/",
         buttons: [
@@ -125,7 +158,7 @@ const papers = [
         authors: "Meizhen Liu, Xu Guo, Jiakai He, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou",
         venue: "Findings of the Association for Computational Linguistics: EMNLP 2023",
         year: 2023,
-        category: ["Multilingual", "LLM", "Parameter-Efficient Fine-Tuning", "Transfer Learning"],
+        category: ["Multilingual Language Models", "Parameter-Efficient Fine-Tuning", "Transfer Learning"],
         img: "./image/pub/intemats.png",
         link: "https://aclanthology.org/2023.findings-emnlp.335/",
         buttons: [
@@ -138,9 +171,9 @@ const papers = [
     {
         title: "GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters",
         authors: "Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, and Fengyu Zhou",
-        venue: "Conference on Information and Knowledge Management (CIKM 2023)",
+        venue: "Conference on Information and Knowledge Management (CIKM 2023). Oral",
         year: 2023,
-        category: ["Multilingual", "LLM", "Parameter-Efficient Fine-Tuning", "Transfer Learning"],
+        category: ["Multilingual Language Models", "Parameter-Efficient Fine-Tuning", "Transfer Learning"],
         img: "./image/pub/grancats.png",
         link: "https://dl.acm.org/doi/10.1145/3583780.3614896",
         buttons: [
@@ -155,7 +188,7 @@ const papers = [
         authors: "Zilin Du, Yunxin Li, Xu Guo, Yidan Sun, and Boyang Li",
         venue: "ACM Multimedia, 2023",
         year: 2023,
-        category: ["Multimedia", "Synthetic Data", "Parameter-Efficient Fine-Tuning"],
+        category: ["Multimodal LLMs", "Synthetic Data Generation", "Parameter-Efficient Fine-Tuning", "Vision-Language Models"],
         img: "./image/pub/camel.png",
         link: "https://dl.acm.org/doi/10.1145/3581783.3612526",
         buttons: [
@@ -170,7 +203,7 @@ const papers = [
         authors: "Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, and Chunyan Miao",
         venue: "ACM Transactions on Intelligent Systems and Technology, 2022",
         year: 2022,
-        category: ["Federated Learning", "Sentiment Analysis", "LLM"],
+        category: ["Federated Learning", "Sentiment Analysis", "Large Language Models"],
         img: "./image/pub/fedhumor.png",
         link: "https://dl.acm.org/doi/10.1145/3511710",
         buttons: [
@@ -186,7 +219,7 @@ const papers = [
         authors: "Xu Guo, Boyang Li, Han Yu",
         venue: "Findings of the Association for Computational Linguistics: EMNLP 2022",
         year: 2022,
-        category: ["Parameter-Efficient Fine-Tuning", "Transfer Learning", "LLM", "Efficiency"],
+        category: ["Parameter-Efficient Fine-Tuning", "Transfer Learning", "Large Language Models", "Efficiency"],
         img: "./image/pub/optima.png",
         link: "https://aclanthology.org/2022.findings-emnlp.258/",
         buttons: [
@@ -205,7 +238,7 @@ const papers = [
         authors: "Xu Guo, Boyang Li, Han Yu, Chunyan Miao",
         venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021). Oral",
         year: 2021,
-        category: ["Sentiment Analysis", "Transfer Learning", "LLM"],
+        category: ["Sentiment Analysis", "Transfer Learning", "Large Language Models"],
         img: "./image/pub/loant.png",
         link: "https://aclanthology.org/2021.naacl-main.425/",
         buttons: [
@@ -225,7 +258,7 @@ const papers = [
         authors: "Xu Guo, Han Yu, Chunyan Miao, Yiqiang Chen",
         venue: "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019). Demo",
         year: 2019,
-        category: ["Healthcare"],
+        category: ["AI for Healthcare"],
         img: "./image/pub/ijcai19.png",
         link: "https://www.ijcai.org/proceedings/2019/943",
         buttons: [

@@ -24,7 +24,7 @@ const papers = [
     {
         title: "TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning",
         authors: "Junru Zhang, Lang Feng, Xu Guo, Yuhan Wu, Yabo Dong, Duanqing Xu",
-        venue: "The NeurIPS workshop on Recent Advances on Time Series Foundation Models",
+        venue: "NeurIPS workshop on Recent Advances on Time Series Foundation Models: Have We Reached the BERT Moment? ",
         year: 2025,
         category: ["Vision-Language Models", "LLM Reasoning", "Multimodal LLMs", "Interpretability", "Reinforcement Learning",],
         img: "./image/pub/timemaster.png",

@@ -25,14 +25,15 @@ body {
 /* -------------------- SECTION HEADER -------------------- */
 .section-header {
     width: 100%;
-    margin: 10px 0 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
 }
 
 .section-title {
-    font-size: 28px;
+    font-size: 25px;
     font-weight: 700;
     text-decoration: none;
     color: #222;
@@ -131,7 +132,7 @@ body {
 }
 
 .profile-name {
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 700;
     margin-bottom: 12px;
 }
@@ -184,8 +185,76 @@ body {
     transform: translateY(-2px);
 }
 
+.recruit-section {
+    margin-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #f2f7ff, #eefaf6);
+}
+.recruit-intro {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 18px;
+}
 
+.project-tags{
+  list-style: none;
+  padding: 0;
+  margin: 14px 0 18px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;   /* 行间距/列间距 */
+}
 
+.project-tags li{
+  margin: 0;
+  padding: 0;
+}
+
+.project-tags span{
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+  font-size: 14px;
+}
+
+.email-highlight {
+    font-weight: 600;
+    color: #3a7afe;
+}
+
+.recruit-cta {
+    margin-top: 18px;
+    font-size: 16px;
+}
+
+.research-identity {
+    grid-column: 1 / 3;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    padding-left: 18px;
+    border-left: 4px solid #4A6CF7;
+    margin-bottom: 8px;
+    margin-top: 30px;
+    color: #111;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
 /* -------------------- PAPER BLOCK -------------------- */
 .paper-block {
     background: white;
@@ -205,11 +274,15 @@ body {
     width: 100%;
     display: flex;
     gap: 20px;
-    margin-bottom: 26px;
+    padding-bottom: 22px;
+    margin-bottom: 22px;
+    border-bottom: 1px solid #e7e8e9;
 }
 
 .paper-item:last-child {
     margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
 }
 
 .paper-img-wrapper {

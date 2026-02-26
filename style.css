@@ -356,6 +356,38 @@ body {
 }
 
 
+/* -------------------- SERVICE BLOCK -------------------- */
+.service-block {
+    background: white;
+    padding: 26px;
+    border-radius: 14px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+    margin-bottom: 32px;
+}
+
+.service-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+
+.service-section {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.service-role {
+    font-weight: 600;
+    color: #111;
+}
+
+.service-content {
+    color: #444;
+    line-height: 1.6;
+}
+
 /* -------------------- MOBILE -------------------- */
 @media (max-width: 650px) {
 
